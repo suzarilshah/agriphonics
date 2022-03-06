@@ -5,8 +5,9 @@ A smart Aquaponics solutions implementing Microsoft Azure, Azure IoT Hub, Azure 
 * Added integration to Azure Cloud, Azure IoT Hub, Stream Jobs Analytics and Microsoft PowerPlatform (PowerApps and PowerBI)
 * The Problem statements and Objectives are still the same, but this time, we are targetting SME to large scale Aquaponics Farmers, implementing Data Visualization and Analytics. 
 * You can read our research journal [here](https://www.researchgate.net/publication/357794060_Automated_Aquaponics_System_to_Support_Sustainable_Development_Goals) or at ``` research-journal```
+* Early Prototype demo can be [viewed here](https://www.youtube.com/watch?v=5jtcH6KSaoI)
 * This project also support Sustainable Development Goals (SDG) number 11 - Sustainable Cities and Communities
-![](https://github.com/suzarilshah/agriphonics/blob/main/prototype-diagram/SDG.jpg) 
+![image](https://user-images.githubusercontent.com/72111395/156930703-6a224614-cae6-4c07-bce3-f75ba20a6df6.png)
 
 ## Methodology
 
@@ -29,6 +30,9 @@ You can refer to our [previous setup](https://github.com/suzarilshah/smartaquapo
 * Total Dissolve Solids + Electric Conductance sensor - to determnine the level of Ammonia and pollutants
 * Water flow sensor - determine the volume of water 
 * pH level sensor
+
+## Physical Setup
+![](https://github.com/suzarilshah/agriphonics/blob/main/physical-setup/prototype.jpg)
 
 ## Software Setup - updated!
 ![](https://github.com/suzarilshah/agriphonics/blob/main/prototype-diagram/block-diagram.jpg)
